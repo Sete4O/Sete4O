@@ -3,6 +3,7 @@
 </div>
 	
 </div>
-<p><h3 align="center">📗I am a software development student, my name is Pedro thiago📘</h3> </p>
-<p> <h4 align="center">💭 Quanto mais aprendo, mais me torno 🍀</h4>
+<p><h3 align="center">📚I am a software development student, my name is Pedro thiago📚</h3> </p>
+<p> <h4 align="center">✍🏻 The more I learn, the more I become 👓</h4>
+<p>  <h5 align="center">💜</h5>
 </p>
